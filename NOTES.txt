@@ -1,7 +1,7 @@
 CREATE DATABASE misc;
-CREATE USER 'fred'@'localhost' IDENTIFIED BY 'alan';
+CREATE USER 'fred'@'localhost' IDENTIFIED BY 'mauro';
 GRANT ALL ON misc.* TO 'fred'@'localhost';
-CREATE USER 'fred'@'127.0.0.1' IDENTIFIED BY 'alan';
+CREATE USER 'fred'@'127.0.0.1' IDENTIFIED BY 'mauro';
 GRANT ALL ON misc.* TO 'fred'@'127.0.0.1';
 
 USE misc; (Or select misc in phpMyAdmin)
