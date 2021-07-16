@@ -1,3 +1,4 @@
+<html>
 <head>
     <title>Mauro Silvino</title>
 </head>
@@ -67,4 +68,4 @@
         </p>
     </form>
 </body>
-<p>
+</html>
