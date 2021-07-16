@@ -1,5 +1,3 @@
-To get started run the following SQL commands:
-
 CREATE DATABASE misc;
 CREATE USER 'fred'@'localhost' IDENTIFIED BY 'alan';
 GRANT ALL ON misc.* TO 'fred'@'localhost';
